@@ -10,7 +10,7 @@ public class A12 {
 	public static void getData() {
 		System.out.println("this is magic");
 	}
-	public static void main add(int a,int b){
+	public static void  add(int a,int b){
 		System.out.println(a+b);
 
 
